@@ -1,5 +1,5 @@
 This is an implementation code of the probalistic principal component analysis using different technique:
-- Maximum Likehood
+- Maximum Likelihood
 - Expectation Maximization 
 - Bayesian Variational 
 
