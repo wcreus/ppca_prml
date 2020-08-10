@@ -1,1 +1,4 @@
 .idea/*
+notebook/*
+ppca/.idea/*
+ppca/__pycache__/*
